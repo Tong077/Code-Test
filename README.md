@@ -5,7 +5,7 @@ Uses `(localdb)\MSSQLLocalDB` by default. Change in `DataContext Floder/DataConn
 
 ## Setup Instructions
 1. Clone this repository
-2. Open `ProductSalesReport.sln` in Visual Studio
+2. Open `Coding_Test.sln` in Visual Studio
 3. Make sure DevExpress is installed (v23.2+)
 4. Run `Create database Assignment` to create and seed the database
 
