@@ -1,4 +1,4 @@
-# C# DevExpress Product Sales Report Tool
+# C#(Window Form App Net8.version) DevExpress Product Sales Report Tool
 
 ## Connection String
 Uses `(localdb)\MSSQLLocalDB` by default. Change in `DataContext Floder/DataConnection.cs` if needed.
