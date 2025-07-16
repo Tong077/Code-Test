@@ -1,7 +1,19 @@
-# Coding_Test Report Application
-- This application connects to a local SQL Server database (`(localdb)\MSSQLLocalDB`) and performs data operations for generating reports.
-- Set up
--   clone The Repository https://github.com/Tong077/Code-Test.git
+# C# DevExpress Product Sales Report Tool
+
+## Connection String
+Uses `(localdb)\MSSQLLocalDB` by default. Change in `DataContext Floder/DataConnection.cs` if needed.
+
+## Setup Instructions
+1. Clone this repository
+2. Open `ProductSalesReport.sln` in Visual Studio
+3. Make sure DevExpress is installed (v23.2+)
+4. Run `Create database Assignment` to create and seed the database
+
+5. 
+## Features
+- Filter by date range
+- Group by ProductCode
+- Export to PDF
   
 -   Script Crate The Table 
 -   CREATE TABLE PRODUCTSALES (
