@@ -1,0 +1,767 @@
+{
+  "version": 2,
+  "dgSpecHash": "c92kZhVJxRo=",
+  "success": true,
+  "projectFilePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.charts\\25.1.3\\devexpress.charts.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.charts.core\\25.1.3\\devexpress.charts.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.codeparser\\25.1.3\\devexpress.codeparser.25.1.3.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\devexpress.data\\25.1.4-pre-25191\\devexpress.data.25.1.4-pre-25191.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.data.desktop\\25.1.3\\devexpress.data.desktop.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.dataaccess\\25.1.3\\devexpress.dataaccess.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.dataaccess.ui\\25.1.3\\devexpress.dataaccess.ui.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.datavisualization.core\\25.1.3\\devexpress.datavisualization.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.diagram.core\\25.1.3\\devexpress.diagram.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.drawing\\25.1.3\\devexpress.drawing.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.gauges.core\\25.1.3\\devexpress.gauges.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.images\\25.1.3\\devexpress.images.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.map.core\\25.1.3\\devexpress.map.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.mvvm\\25.1.3\\devexpress.mvvm.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.office.core\\25.1.3\\devexpress.office.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.pdf.core\\25.1.3\\devexpress.pdf.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.pdf.drawing\\25.1.3\\devexpress.pdf.drawing.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.pivotgrid.core\\25.1.3\\devexpress.pivotgrid.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.printing.core\\25.1.3\\devexpress.printing.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.reporting.core\\25.1.3\\devexpress.reporting.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.richedit.core\\25.1.3\\devexpress.richedit.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.richedit.export\\25.1.3\\devexpress.richedit.export.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.scheduler.core\\25.1.3\\devexpress.scheduler.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.scheduler.coredesktop\\25.1.3\\devexpress.scheduler.coredesktop.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.sparkline.core\\25.1.3\\devexpress.sparkline.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.spellchecker.core\\25.1.3\\devexpress.spellchecker.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.spreadsheet.core\\25.1.3\\devexpress.spreadsheet.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.treemap\\25.1.3\\devexpress.treemap.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.treemap.core\\25.1.3\\devexpress.treemap.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.utils\\25.1.3\\devexpress.utils.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.utils.ui\\25.1.3\\devexpress.utils.ui.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win\\25.1.3\\devexpress.win.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.charts\\25.1.3\\devexpress.win.charts.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.design\\25.1.3\\devexpress.win.design.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.diagram\\25.1.3\\devexpress.win.diagram.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.dialogs\\25.1.3\\devexpress.win.dialogs.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.dialogs.core\\25.1.3\\devexpress.win.dialogs.core.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.gantt\\25.1.3\\devexpress.win.gantt.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.gauges\\25.1.3\\devexpress.win.gauges.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.grid\\25.1.3\\devexpress.win.grid.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.map\\25.1.3\\devexpress.win.map.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.navigation\\25.1.3\\devexpress.win.navigation.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.pdfviewer\\25.1.3\\devexpress.win.pdfviewer.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.pivotgrid\\25.1.3\\devexpress.win.pivotgrid.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.printing\\25.1.3\\devexpress.win.printing.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.reporting\\25.1.3\\devexpress.win.reporting.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.richedit\\25.1.3\\devexpress.win.richedit.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.scheduler\\25.1.3\\devexpress.win.scheduler.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.schedulerextensions\\25.1.3\\devexpress.win.schedulerextensions.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.schedulerreporting\\25.1.3\\devexpress.win.schedulerreporting.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.spellchecker\\25.1.3\\devexpress.win.spellchecker.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.spreadsheet\\25.1.3\\devexpress.win.spreadsheet.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.treelist\\25.1.3\\devexpress.win.treelist.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.treemap\\25.1.3\\devexpress.win.treemap.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.win.verticalgrid\\25.1.3\\devexpress.win.verticalgrid.25.1.3.nupkg.sha512",
+    "D:\\DessExpress\\Components\\Offline Packages\\devexpress.xpo\\25.1.3\\devexpress.xpo.25.1.3.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.build.framework\\17.14.8\\microsoft.build.framework.17.14.8.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.0-preview2.25178.5\\microsoft.data.sqlclient.6.1.0-preview2.25178.5.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.2\\microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.7\\microsoft.extensions.configuration.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.7\\microsoft.extensions.configuration.fileextensions.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.7\\microsoft.extensions.configuration.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.7\\microsoft.extensions.fileproviders.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.7\\microsoft.extensions.fileproviders.physical.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.7\\microsoft.extensions.filesystemglobbing.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identity.client\\4.67.2\\microsoft.identity.client.4.67.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.67.2\\microsoft.identity.client.extensions.msal.4.67.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.7.1\\microsoft.identitymodel.jsonwebtokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.logging\\7.7.1\\microsoft.identitymodel.logging.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.7.1\\microsoft.identitymodel.protocols.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.7.1\\microsoft.identitymodel.protocols.openidconnect.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.1\\microsoft.identitymodel.tokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.clientmodel\\1.1.0\\system.clientmodel.1.1.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.data.oledb\\8.0.1\\system.data.oledb.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.1\\system.diagnostics.performancecounter.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.drawing.common\\8.0.15\\system.drawing.common.8.0.15.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.1\\system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.io.pipelines\\9.0.7\\system.io.pipelines.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.servicemodel.http\\8.1.2\\system.servicemodel.http.8.1.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.servicemodel.netframingbase\\8.1.2\\system.servicemodel.netframingbase.8.1.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.servicemodel.nettcp\\8.1.2\\system.servicemodel.nettcp.8.1.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.servicemodel.primitives\\8.1.2\\system.servicemodel.primitives.8.1.2.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.text.encodings.web\\9.0.7\\system.text.encodings.web.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\SR GEARS\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Reporting.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Charts 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Charts.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.CodeParser 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.DataAccess 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Drawing 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Gauges.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Office.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Pdf.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Pdf.Drawing 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.PivotGrid.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Printing.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.RichEdit.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.RichEdit.Export 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Sparkline.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Xpo 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Charts 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Diagram 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Dialogs 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Gantt 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Gauges 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Map 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.PdfViewer 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Reporting 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.RichEdit 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.SchedulerExtensions 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.SpellChecker 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Spreadsheet 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.TreeMap 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.DataVisualization.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Data.Desktop 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Utils 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Grid 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Navigation 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.PivotGrid 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Printing 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.TreeList 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.VerticalGrid 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.DataAccess.UI 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Utils.UI 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Diagram.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Dialogs.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Map.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Images 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Scheduler.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Scheduler.CoreDesktop 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.SpellChecker.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.Scheduler 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Win.SchedulerReporting 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.Spreadsheet.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.TreeMap 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: DevExpress.TreeMap.Core 25.1.3 requires DevExpress.Data (= 25.1.3) but version DevExpress.Data 25.1.4-pre-25191 was resolved.",
+      "projectPath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C#InsternShip(Assigment)\\Coding_Test\\Coding_Test\\Coding_Test.csproj",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
